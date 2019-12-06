@@ -1,3 +1,7 @@
 this is the first.
 this is the second change.
-this addition is done in branch dev. master branch modification.
+<<<<<<< HEAD
+this addition is done in branch dev. 
+=======
+this addition is done in branch dev. dev modification.
+>>>>>>> dev
